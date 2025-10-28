@@ -1,1 +1,1 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshay-hub-007&theme=radical&hide_border=true&border_radius=6)
+![Akshay-hub-007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-hub-007&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
