@@ -1,2 +1,1 @@
-### 🔥 My GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Akshay-hub-007&theme=radical&hide_border=true&border_radius=6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Akshay-hub-007&theme=radical&hide_border=true&border_radius=6&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
