@@ -105,6 +105,28 @@
 
 ---
 
+## 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/8c07b37c-979c-4707-8f62-770a1e61c815/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/1e8b3e19-b9a3-4a39-bd44-3da2e1b5c1a4/AWS-CloudPractitioner-2020.png" width="120" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/3119ac55-008b-4eea-8881-2d70bd270ad2/public_url" target="_blank">
+    <img src="https://images.credly.com/size/200x200/images/9c4837e2-452b-4fce-9b45-2b98f8e1dc57/MongoDB_Certified_Database_Administrator_Associate.png" width="120" alt="MongoDB Certified Database Administrator Associate" />
+  </a>
+</p>
+
+<p align="center">
+  <b>AWS Certified Cloud Practitioner</b><br>
+  <a href="https://www.credly.com/badges/8c07b37c-979c-4707-8f62-770a1e61c815/public_url" target="_blank">Verify Credential</a>
+  &nbsp;•&nbsp;
+  <b>MongoDB Certified Database Administrator Associate</b><br>
+  <a href="https://www.credly.com/badges/3119ac55-008b-4eea-8881-2d70bd270ad2/public_url" target="_blank">Verify Credential</a>
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="center">
