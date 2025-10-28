@@ -1,33 +1,39 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center">🚀 Passionate Full Stack & AI Developer | MERN | Java | Python | ML | DL | LangChain | Spring Boot</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Microservices | Spring Boot | React | Next.js</h3>
 
 ---
 
 ### 🧩 About Me
-- 🌱 I’m currently learning **LangChain, LangGraph, and MCP (Model Context Protocol)**
-- 💼 Working on **Real-Time Collaborative Code Editor (PS7)** and **AI-integrated web tools**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Java, Python, and Spring Boot**
-- 🤖 Interested in **Machine Learning, Deep Learning, and LLM Integrations**
-- ⚡ Fun fact: I love integrating AI into full-stack applications!
+- 💼 Currently working on **Java Microservices Architecture**
+- 🌱 Exploring **Spring Boot, REST APIs, Docker, and Cloud Deployment**
+- 💬 Ask me about **Java, Spring Boot, Microservices, React, Next.js, and API Development**
+- ⚙️ Passionate about building **scalable full stack applications**
+- ☁️ Interested in **AI integrations, ML, and modern microservice-based systems**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**💻 Languages:**  
-Java · Python · JavaScript · HTML · CSS  
+**💻 Core Backend:**  
+Java · Spring Boot · Spring Cloud · Spring Security · REST APIs · JPA/Hibernate  
+
+**🧱 Microservices & Integration:**  
+Microservices Architecture · Service Registry (Eureka) · API Gateway (Spring Cloud Gateway) · Feign Client · Inter-Service Communication  
 
 **🌐 Frontend:**  
-React.js · Next.js · Vite · Tailwind CSS · ShadCN/UI · GSAP  
+React.js · Next.js · Vite · Tailwind CSS · ShadCN/UI  
 
-**⚙️ Backend:**  
-Node.js · Express.js · Spring Boot · Django · MongoDB · PostgreSQL · Drizzle ORM  
+**📡 Messaging & Streaming:**  
+RabbitMQ · Apache Kafka  
+
+**🗄️ Databases:**  
+PostgreSQL · MySQL · MongoDB  
 
 **🧠 AI / ML:**  
-Machine Learning · Deep Learning · LangChain · LangGraph · MCP · Gemini AI · OpenAI API  
+Machine Learning · Deep Learning · LangChain · LangGraph · MCP  
 
-**🧰 Dev Tools:**  
-VS Code · Postman · Docker · Git · Cloudinary · Clerk Auth  
+**☁️ DevOps & Tools:**  
+Docker · Kubernetes · Git · Maven · Jenkins · Postman · IntelliJ IDEA  
 
 ---
 
