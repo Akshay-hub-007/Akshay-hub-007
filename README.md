@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Akshay</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Microservices | Spring Boot | React | Next.js</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Microservices | Spring Boot | React | Next.js |Gen AI</h3>
 
 <p align="center">
   <a href="https://github.com/Akshay-hub-007" target="_blank">
@@ -104,26 +104,12 @@
 </p>
 
 ---
+
 ## 🏅 Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/8c07b37c-979c-4707-8f62-770a1e61c815/public_url" target="_blank">
-    <img src="https://github.com/Akshay-hub-007/assets/your-aws-badge.png" width="120" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/3119ac55-008b-4eea-8881-2d70bd270ad2/public_url" target="_blank">
-    <img src="https://github.com/Akshay-hub-007/assets/your-mongodb-badge.png" width="120" alt="MongoDB Certified Database Administrator Associate" />
-  </a>
-</p>
-
-<p align="center">
-  <b>AWS Certified Cloud Practitioner</b><br>
-  <a href="https://www.credly.com/badges/8c07b37c-979c-4707-8f62-770a1e61c815/public_url" target="_blank">Verify Credential</a>
-  &nbsp;•&nbsp;
-  <b>MongoDB Certified Database Administrator Associate</b><br>
-  <a href="https://www.credly.com/badges/3119ac55-008b-4eea-8881-2d70bd270ad2/public_url" target="_blank">Verify Credential</a>
-</p>
-
+- **AWS Certified Cloud Practitioner**  
+- **MongoDB Certified Database Administrator Associate**  
+- **OCI Generative AI Certified**
 
 ---
 
