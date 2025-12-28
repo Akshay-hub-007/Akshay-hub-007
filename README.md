@@ -46,7 +46,7 @@
 `RabbitMQ` · `Apache Kafka`
 
 ### 🗄️ Databases
-`PostgreSQL` · `MySQL` · `MongoDB` · `Oracle`
+`PostgreSQL` · `MySQL` · `MongoDB` 
 
 ### 🧠 AI / ML
 `Machine Learning` · `Deep Learning` · `LangChain` · `LangGraph` · `MCP`
