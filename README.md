@@ -37,7 +37,7 @@
 `React` · `React Native` · `Next.js` · `Vite` · `Tailwind CSS` · `ShadCN/UI`
 
 ### 📱 Mobile Development
-`React Native` · `Expo` · `Android` · `iOS` · `REST API Integration`
+`Kotlin` . `React Native` · `Expo` · `Android` · `iOS` · `REST API Integration`
 
 ### 🧱 Microservices & Integration
 `Eureka` · `API Gateway` · `Feign Client` · `Spring Cloud Config`
